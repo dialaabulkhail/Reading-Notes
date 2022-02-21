@@ -19,7 +19,7 @@ if we used (/etc) as an option it shows us the list the inside directories conte
 - **More about files:**
 
 
-surprisingly everyhting is a file, and linux can know file type through its content without the need of extenions, by running (file [path]), linux is case sesitive, and to spaces in files names.
+*surprisingly* everyhting is a file, and linux can know file type through its content without the need of extenions, by running (file [path]), linux is case sesitive, and to spaces in files names.
 using quotes or escape characters can give a valid output when having spacing in names.
 whenever we start naming a file with (.) its hidden by default, to show them run (ls -a)
 

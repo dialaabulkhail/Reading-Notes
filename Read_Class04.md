@@ -63,6 +63,10 @@ Fibonacci was defined to find the number of rabbits as: [^2]
 Pytest is a library in Python used to test codes
 
 ### Fixtures
+A fixture provides a defined, reliable and consistent context for the tests.
+
+We can tell pytest that a particular function is a fixture by decorating it with @pytest.fixture
+
 **"parametrized tests"**[^3]
 >> When you're writing tests, you're rarely going to write just one or two. Rather, you're going to write an entire "test suite", with each test aiming to check a different path through your code. In many cases, this means you'll have a few tests with similar characteristics, something that pytest handles with "parametrized tests".
 

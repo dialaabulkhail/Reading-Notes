@@ -17,3 +17,4 @@
 | Reading01 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class01) |
 | Reading02 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class02) |
 | Reading03 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class03) |
+| Reading04 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class04) |

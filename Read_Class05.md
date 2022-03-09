@@ -2,10 +2,10 @@
 
 ## Random Modules
 ### Overview 
-Random modules let you have random numbers/order when attached to a funciton.
+Random modules let you have random numbers/order when attached to a function.
 
 ### Random functions
-1. **Radiant** --> just like a range, genertes a random integer between two parameters "the first one will be out of range"
+1. **Radiant** --> just like a range, generates a random integer between two parameters "the first one will be out of range"
 
 Example: 
 ```
@@ -47,7 +47,7 @@ for i in range(3):
     print random.randrange(0, 101, 5)
 ```
 
-### An Examplpe of using Choise
+### An Example of using Choice
 
 ```
 import random
@@ -66,6 +66,7 @@ print 'Tails:', outcomes['tails']
 #There are only two outcomes allowed, so rather than use numbers and convert them, the words “heads” and “tails” are used with choice().
 ```
 [More](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
+
 _____________________________________________________________________________________
 
 ## Risk Analysis
@@ -119,6 +120,7 @@ Test coverage is a tool used to find which parts are not tested in the code.
 2. You are rarely hesitant to change some code for fear it will cause production bugs.
 
 [More](https://martinfowler.com/bliki/TestCoverage.html)
+
 ________________________________________________________________________________________
 
 ## Big O notation

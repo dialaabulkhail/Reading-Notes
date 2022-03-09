@@ -99,8 +99,30 @@ using risk analysis at the begining of any project insures the following:
 4. Software Risks
 
 
-**The following flowchart represents 
+**The following flowchart represents the Risk Assesment**
 
+![Risk Assesment](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/Picture1-528x290.png)
+
+[More](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
+
+________________________________________________________________________________________
+
+## Big O notation
+### There are four basic pieces of Big O:
+1. If you have two different steps in your algorithm, you add up those steps:
+if you have a first step that takes O(a) time, and a seconod step takes O(b) time ---> O(a+b)
+
+2. Drop constants:
+if you have a result of O(2n) just drop the constant 2 ---> O(n)
+
+3. If you have different inputs you're going to use different variables to represent them:
+if you have for example 2 arrays and you want to find the common elements.
+n shouldn't be the array size,cause there're two, so here define a as size array 1 and b as size array b ---> O(a*b)
+
+4. Drop non dominate terms:
+if the first step takes O(n), and the second takes O(n^2) --> O(n+n^2) BUT this actually means ---> O(n^2)
+
+[More](https://www.youtube.com/watch?v=v4cd1O4zkGw&ab_channel=HackerRank)
 
 
 

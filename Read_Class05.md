@@ -107,6 +107,20 @@ using risk analysis at the begining of any project insures the following:
 
 ________________________________________________________________________________________
 
+## Test Coverage
+### Overview
+Test coverage is a tool used to find which parts are not tested in the code.
+>> TDD is a very useful, but certainly not sufficient, tool to help you get good tests. [^1]
+
+- high coverage with good understanding of what your code is doing, is better than 100% test results without knowing what your code is doinig
+- 
+-  you are doing enough testing if the following is true:
+1. You rarely get bugs that escape into production.
+2. You are rarely hesitant to change some code for fear it will cause production bugs.
+
+[More](https://martinfowler.com/bliki/TestCoverage.html)
+________________________________________________________________________________________
+
 ## Big O notation
 ### There are four basic pieces of Big O:
 1. If you have two different steps in your algorithm, you add up those steps:
@@ -128,5 +142,5 @@ if the first step takes O(n), and the second takes O(n^2) --> O(n+n^2) BUT this 
 
 
 
-
+[^1]:https://martinfowler.com/bliki/TestCoverage.html
 

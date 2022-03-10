@@ -1,16 +1,16 @@
 # Data structures
 
-## A term refers to how your dta should be structured and the access fo the data and manipulating the data in the most effecient way.
-Effeciency and performance: how much excecution time it will take, time and space complexity...
+## A term refers to how your data should be structured and the access fo the data and manipulating the data in the most efficient way.
+Efficiency and performance: how much excecution time it will take, time and space complexity...
 
-**One of the applications that present data as: trees are google maps and facebook**
+**One of the applications that present data as: trees are google maps and Facebook**
 
 ## Linked lists
 An example of data structre, Its a way to store data in a block chain.
 
-A Linked list is a sequence of Nodes, each node(is devided into two parts) one contains data item and the other contains the reference (an adress )of the next node.
+A Linked list is a sequence of Nodes, each node(is devided into two parts) one contains data item and the other contains the reference (an address )of the next node.
 
-**the last node has no adress (null)**
+**the last node has no address (null)**
 
 **the first node is called "Head"**
 
@@ -47,7 +47,9 @@ A sequence and an order to how data are constructed and traversed.
 - **non-linear data structures**
  items don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
  
+ 
  ### Memory management
+ 
  When an array is created, it needs a certain amount of memory(bytes), one byte next to the another, all together, in one place.
  
  But with linked lists One byte could live somewhere, while the next byte could be stored in another place in memory altogether!

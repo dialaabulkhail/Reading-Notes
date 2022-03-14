@@ -16,7 +16,7 @@
 **You can create Python names through one of the following operations:**
 [^1]
 |**Operation** |**Statement** |
-|----------|----------|
+| ----------- | ----------- |
 |Assignments | x = value |
 |Import operations |import module/from module import name |
 |Function definitions |def my_func()|
@@ -42,6 +42,7 @@
 ![](https://www.pythontutorial.net/wp-content/uploads/2020/11/Python-nonlocal-Scopes-nonlocal-variable-lookup.png)
 
 [More](https://realpython.com/python-scope-legb-rule/)
+
 ____________________________________________________________________________
 ## Big O notation
 - How much time and space in memory it being consumed while an algorithm is being executed.

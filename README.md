@@ -20,3 +20,4 @@
 | Reading04 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class04) |
 | Reading05 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class05) |
 | Reading06 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class06) |
+| Reading07 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class07) |

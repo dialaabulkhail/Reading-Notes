@@ -48,6 +48,7 @@ You can make an object callable like a regular function by adding the __call__ d
 ### Context Manager Support and the With Statement: __enter__, __exit__
 
 [More](https://dbader.org/blog/python-dunder-methods)
+______________________________________________________________________________________
 
 # Basic Statistics in Python — Probability
 Propability: the chance of an event to happen.
@@ -76,11 +77,17 @@ given a normal distribution:
 “Given a data point, how many standard deviations is it away from the mean?”
 
 [More](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+______________________________________________________________________________________
+### Statistical features -->
+like bias, variance.. help us explore a dataset to gain valuable insights.
 
-## Statistical features --> like bias, variance.. help us explore a dataset to gain valuable insights.
-## Probability distribution --> defines the perfect chance that some event will occur, used to understand the spread of data.
-## Basian statistics --> expresseslains probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
-## [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+### Probability distribution -->
+defines the perfect chance that some event will occur, used to understand the spread of data.
+
+### Basian statistics -->
+expresseslains probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
+
+### [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 
 [Intro to statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ&ab_channel=SirajRaval)
 

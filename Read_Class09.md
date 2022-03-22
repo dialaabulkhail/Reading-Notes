@@ -1,5 +1,5 @@
 # Dunder Methods
-- also known as majic/special methods
+- also known as magic/special methods
 - are a set of predefined methods you can use to enrich your classes.
 
 ## Special Methods and the Python Data Model
@@ -51,11 +51,11 @@ You can make an object callable like a regular function by adding the __call__ d
 ______________________________________________________________________________________
 
 # Basic Statistics in Python — Probability
-Propability: the chance of an event to happen.
+Probability: the chance of an event to happen.
 normal distribution: The normal distribution refers to a particularly important phenomenon in the probability and statistics field. 
 >> The most important qualities to notice about the normal distribution is its symmetry and its shape.
 
-difference between the context of propabilities and statistics context in the normal distribution:
+difference between the context of probabilities and statistics context in the normal distribution:
 
 ![](https://i.imgur.com/egqrj58.jpg)
 
@@ -85,7 +85,7 @@ like bias, variance.. help us explore a dataset to gain valuable insights.
 defines the perfect chance that some event will occur, used to understand the spread of data.
 
 ### Basian statistics -->
-expresseslains probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
+expresses probability as a degree of belief in an event which can change as new information is gathered rather than a fixed value based on frequency.
 
 ### [Statistics cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 

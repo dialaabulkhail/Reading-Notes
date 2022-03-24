@@ -15,7 +15,7 @@ _______________
 Top pointer will point on the top of the node.
 
 -create a node (3)
-- make the next of new node to be the value of ehat the pointer top is refering to (None)
+- make the next of new node to be the value of ehat the pointer top is referring to (None)
 - make the top pointer refer to the new node
 
 pushing another one:
@@ -41,7 +41,7 @@ class Stack:
 
     def push(self, value):
         node = Node(value)  ---> creating a node
-        node.next = self.top ---> making the next equal what top is refering to
+        node.next = self.top ---> making the next equal what top is referring to
         self.top = node ---> changing pointer top to be on the new value
 ```
 ___________
@@ -73,7 +73,7 @@ _____________
     
         temp = self.top ---> create  a new pointer to take the top place 
         
-        self.top = self.top.next ---> changing the top to be refering to the second node
+        self.top = self.top.next ---> changing the top to be referring to the second node
         
         temp.next = None  --> disconnected the node from the stack
         

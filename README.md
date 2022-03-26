@@ -24,6 +24,8 @@
 | Reading08 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class08) |
 | Reading09 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class09) |
 | Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Stacks_and_Queues) |
+| Reading11 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class11) |
+
 
 
 

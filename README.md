@@ -8,12 +8,16 @@
 
 > **Table of content**
 
-
-| Course | Folder link |
+| Prep readings | link |
 | ----------- | ----------- |
-| Prep: Introduction to SQL  | [Preview Task](https://dialaabulkhail.github.io/Reading-Notes/intro_to_sql) |
-| prep: practice in the terminal | [Preview Task](https://dialaabulkhail.github.io/Reading-Notes/practice_in_terminal) |
-| prep: The growth mindset | [Preview Task](https://dialaabulkhail.github.io/Reading-Notes/the_growth_midset) |
+| Introduction to SQL  | [Preview](https://dialaabulkhail.github.io/Reading-Notes/intro_to_sql) |
+| Practice in the terminal | [Preview](https://dialaabulkhail.github.io/Reading-Notes/practice_in_terminal) |
+| The growth mindset | [Preview](https://dialaabulkhail.github.io/Reading-Notes/the_growth_midset) |
+| Python core certificate | [Preview](https://www.sololearn.com/certificates/course/en/25082172/1073/landscape/png) |
+
+
+| Course | link |
+| ----------- | ----------- |
 | Reading01 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class01) |
 | Reading02 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class02) |
 | Reading03 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class03) |
@@ -23,9 +27,11 @@
 | Reading07 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class07) |
 | Reading08 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class08) |
 | Reading09 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class09) |
-| Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Stacks_and_Queues) |
 | Reading11 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class11) |
 
+| Data structures | link |
+| ----------- | ----------- |
+| Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Stacks_and_Queues) |
 
 
 

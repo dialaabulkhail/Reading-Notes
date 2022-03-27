@@ -14,12 +14,14 @@
 | Practice in the terminal | [Preview](https://dialaabulkhail.github.io/Reading-Notes/practice_in_terminal) |
 | The growth mindset | [Preview](https://dialaabulkhail.github.io/Reading-Notes/the_growth_midset) |
 | Python core certificate | [Preview](https://www.sololearn.com/certificates/course/en/25082172/1073/landscape/png) |
+
 _______________________________________________________
 
 | Data structures | link |
 | ----------- | ----------- |
 | Linked lists | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Linked_lists) |
 | Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Stacks_and_Queues) |
+
 _______________________________________________________
 
 | Course | link |

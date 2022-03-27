@@ -10,7 +10,7 @@
 
 | Prep readings | link |
 | ----------- | ----------- |
-| Introduction to SQL  | [Preview](https://dialaabulkhail.github.io/Reading-Notes/blob/main/Prep/intro_to_sql.html) |
+| Introduction to SQL  | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Prep/intro_to_sql.html) |
 | Practice in the terminal | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Prep/practice_in_terminal.html) |
 | The growth mindset | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Prep/the_growth_midset.html) |
 | Python core certificate | [Preview](https://www.sololearn.com/certificates/course/en/25082172/1073/landscape/png) |

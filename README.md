@@ -26,15 +26,15 @@ _______________________________________________________
 
 | Course | link |
 | ----------- | ----------- |
-| Reading01 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class01) |
-| Reading02 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class02) |
-| Reading03 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class03) |
-| Reading04 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class04) |
-| Reading06 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class06) |
-| Reading07 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class07) |
-| Reading08 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class08) |
-| Reading09 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class09) |
-| Reading11 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Read_Class11) |
+| Reading01 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class01) |
+| Reading02 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class02) |
+| Reading03 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class03) |
+| Reading04 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class04) |
+| Reading06 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class06) |
+| Reading07 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class07) |
+| Reading08 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class08) |
+| Reading09 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class09) |
+| Reading11 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class11) |
 
 
 

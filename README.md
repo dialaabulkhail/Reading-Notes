@@ -26,7 +26,7 @@ _______________________________________________________
 
 | Course | link |
 | ----------- | ----------- |
-| Reading01 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class01) |
+| Reading01 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/edits/Course_readings/Read_Class01) |
 | Reading02 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class02) |
 | Reading03 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class03) |
 | Reading04 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class04) |

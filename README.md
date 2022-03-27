@@ -34,7 +34,7 @@ _______________________________________________________
 | Reading07 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class07) |
 | Reading08 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class08) |
 | Reading09 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class09) |
-| Reading11 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/blob/main/Course%20readings/Read_Class11) |
+| Reading11 | [Preview](https://github.com/dialaabulkhail/Reading-Notes/Course%20readings/Read_Class11) |
 
 
 

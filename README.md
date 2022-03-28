@@ -35,6 +35,8 @@ _______________________________________________________
 | Reading08 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class08.html) |
 | Reading09 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class09.html) |
 | Reading11 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class11.html) |
+| Reading12 | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class12.html) |
+
 
 
 

@@ -39,6 +39,7 @@ _______________________________________________________
 
 
 
+[link](https://dialaabulkhail.github.io/Reading-Notes//Courses/Read_Class12.html)
 
 
 

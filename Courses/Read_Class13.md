@@ -93,8 +93,6 @@ it is used to test the following:
 - Underfitting means that the model does not fit the training data and therefore misses the trends in the data. It also means the model cannot be generalized to new data.
  
  ![](https://miro.medium.com/max/555/1*tBErXYVvTw2jSUYK7thU2A.png)
- 
- 
- ![](https://miro.medium.com/max/555/1*tBErXYVvTw2jSUYK7thU2A.png)
+
  
  [More on test split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)

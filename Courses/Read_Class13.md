@@ -49,7 +49,7 @@ x variable is used to predict the y variable.
  
  ![](https://bigdata-madesimple.com/wp-content/uploads/2016/04/Linear-reg.png)
  
- ### Residual plots
+ ## Residual plots
  - Residual plots are a good way to visualize the errors in your data.
  - your data should be randomly scattered around line zero
 
@@ -82,7 +82,8 @@ it is used to test the following:
  
  
  ## Train/Test Split and Cross Validation in Python
- ### Overfitting/Underfitting
+ 
+ ## Overfitting/Underfitting
  Data is usually split into two subsets:
  1. training data
  2. testing data

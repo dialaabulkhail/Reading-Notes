@@ -1,5 +1,16 @@
+# matplotlib Tutorial
+matplotlib a pyhton package for 2D graphics provides a very quick way to visualize data from Python and publication-quality figures in many formats.
+
 # Seaborn 
-Seaborn is a Python library based on matplotlib, it provides an interface for drawing attractive and informative statistical graphics.
+- Seaborn is a Python library based on matplotlib, it provides an interface for drawing attractive and informative statistical graphics.
+- IPython is a python shell that provide features such as named inputs and outputs, access to shell commands, improved debugging.
+>  It allows interactive matplotlib sessions that have Matlab/Mathematica-like functionality.
+
+- pyplot provides a convenient interface to the matplotlib object-oriented plotting library.
+
+Matplotlib comes with a set of default settings that allow customizing all kinds of properties like controlling figure size and dpi, line width, color and style, axes, axis and grid properties, text and font properties.. 
+
+[More on matplotlib](https://github.com/rougier/matplotlib-tutorial/blob/master/README.rst)
 
 ## Overview of seaborn plotting functions
 
@@ -21,6 +32,8 @@ sns.relplot(
     hue="smoker", style="smoker", size="size",
 )
 ```
+
+[seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 
 [Seaborn cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 

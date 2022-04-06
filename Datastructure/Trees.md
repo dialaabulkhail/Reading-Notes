@@ -1,4 +1,4 @@
-Trees
+# Trees
 
 ## Trees Components
 1. Node - A Tree node is a component which may contain its own values, and references to other nodes
@@ -152,3 +152,27 @@ you might add it to the spot where one of the roots doesn't have a left or a rig
 - The Big O space complexity for a node insertion using breadth first insertion will be O(w)  --> w is the largest width of the tree.
 
 ## Binary Search Trees
+A Binary Search Tree (BST) is a type of tree that does have some structure attached to it. 
+- All node values that are smaller than the root are placed to the left.
+- All values that are larger than the root are placed to the right.
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BST1.PNG)
+
+### Searching a BST
+Compare the node you are searching for against the root of the tree or sub-tree. If the value is smaller, you only traverse the left side. If the value is larger, you only traverse the right side.
+
+> The best way to approach a BST search is with a while loop. We cycle through the while loop until we hit a leaf, or until we reach a match with what we’re searching for.
+
+### Big O
+**Time**
+- The Big O time complexity of a Binary Search Tree’s insertion is O(h)  --> h is height
+- The Big O time complexity of a Binary Search Tree’s search is O(h)
+
+-  In a balanced (or “perfect”) tree, the height of the tree is log(n)
+-  In an unbalanced tree, the worst case height of the tree is n
+
+**Space**
+- The Big O space complexity of a BST search would be O(1)
+
+
+[More](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)

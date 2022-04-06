@@ -21,6 +21,8 @@ _______________________________________________________
 | ----------- | ----------- |
 | Linked lists | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Linked_lists.html) |
 | Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Stacks_and_Queues.html) |
+| Trees | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Trees.html) |
+
 
 
 _______________________________________________________

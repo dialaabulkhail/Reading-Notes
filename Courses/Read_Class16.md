@@ -38,5 +38,18 @@ note: DevOps: is  a software development process that speeds the delivery of hig
 - Vendor lock-in: Serverless architectures are designed to take advantage of an ecosystem of managed cloud services and, in terms of architectural models, go the furthest to decouple a workload from something more portable, like a virtual machine (VM) or Docker container. For some companies, deeply integrating with the native managed services of a specific cloud platform is where much of the value of cloud can be found; for others, this cloud lead to material lock-in risks that need to be mitigated.
 
 [More in serverless](https://www.ibm.com/cloud/learn/serverless)
+
 __________________________________________________________________________________
+
+## Severless Functions
+- They are pieces of code written with backend languages that take an HTTP request and provide a response.
+- Serverless Functions can be used to handle user authentication, form submission, database queries, custom slack commands, and more.
+
+## Deploying Serverless Functions
+To deploy Serverless Functions without any additional configuration, you can put files with extensions matching supported languages and exported functions in the /api directory at your project's root.
+
+Sometimes, you need to place extra code files, such as utils.js, inside the /api folder. To avoid turning them into API endpoints, prefix such files with an underscore, _utils.js. Files with the underscore prefix are not turned into Serverless Functions.
+Then, push to your connected Git repository using a Vercel for Git to receive a deployment automatically. You can deploy Serverless Functions to dozens of regions across the world.
+
+[More](https://vercel.com/docs/concepts/functions/serverless-functions)
 

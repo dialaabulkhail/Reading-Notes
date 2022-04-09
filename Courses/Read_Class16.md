@@ -57,7 +57,8 @@ ________________________________________________________________________________
 
 
 ## Effective Python Environment
-** Shell Types**:
+**Shell Types:**
+
 - Unix shells 
 - Bourne shells 
 - Bourne-Again shell 
@@ -68,6 +69,7 @@ ________________________________________________________________________________
 - PowerShell
 
 **Terminal Emulators:**
+
 Whereas a shell provides the prompt and interpreter you use to interface with text-based CLI tools, a terminal emulator (often shortened to terminal) is the graphical application you run to access the shell.
 
 ## Virtual Environments

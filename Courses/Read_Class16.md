@@ -53,3 +53,35 @@ Then, push to your connected Git repository using a Vercel for Git to receive a 
 
 [More](https://vercel.com/docs/concepts/functions/serverless-functions)
 
+__________________________________________________________________________________
+
+
+## Effective Python Environment
+** Shell Types**:
+- Unix shells 
+- Bourne shells 
+- Bourne-Again shell 
+- Z shell 
+- Xonsh shell 
+- Windows Shells
+- CMD
+- PowerShell
+
+**Terminal Emulators:**
+Whereas a shell provides the prompt and interpreter you use to interface with text-based CLI tools, a terminal emulator (often shortened to terminal) is the graphical application you run to access the shell.
+
+## Virtual Environments
+When you install a package in a virtual environment, you do it in isolation from other Python environments you may have. Each virtual environment has its own copy of the python executable.
+
+
+## Creating virtual environments
+[create a virtual environmet](https://docs.python.org/3/library/venv.html)
+
+
+[More](https://realpython.com/effective-python-environment/)
+
+
+
+
+
+

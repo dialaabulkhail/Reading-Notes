@@ -41,6 +41,8 @@ _______________________________________________________
 | Reading13| [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class13.html) |
 | Reading14| [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class14.html) |
 | Reading16| [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class16.html) |
+| Reading17| [Preview](https://dialaabulkhail.github.io/Reading-Notes/Courses/Read_Class17.html) |
+
 
 
 

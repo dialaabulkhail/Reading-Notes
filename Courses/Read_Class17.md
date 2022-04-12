@@ -79,11 +79,13 @@ for one_a_tag in soup.findAll('a'):  #'a' tags are for links
   
   ```
   
-  [More](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+[More](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
   
   
-  ## How to Scrape Websites Without Getting Blocked
- ### Respect Robots.txt
+## How to Scrape Websites Without Getting Blocked
+  
+### Respect Robots.txt
+  
 Web spiders should ideally follow the robot.txt file for a website while scraping. It has specific rules for good behavior, such as how frequently you can scrape, which pages allow scraping, and which ones you can’t.
   
 If these are in the link, it means the website does'nt want to scrape.
@@ -98,5 +100,5 @@ Methods that could help scraping robots.txt files
  - Make requests through Proxies and rotate them as needed
   
   
-  [More](https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/)
+[More](https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/)
   

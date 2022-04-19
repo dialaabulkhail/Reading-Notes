@@ -1,3 +1,5 @@
+**Mark what you didn't need in your project as (was not used)**
+
 ## Artifical intillegence
 To make computers think like humans.
 Machine learning (ML) and deep learning (DL) are also approaches to solving problems. The difference between these techniques and a Python script is that ML and DL use training data instead of hard-coded rules, but all of them can be used to solve problems using AI
@@ -41,6 +43,8 @@ tensorflow was mainly used for detecting ard recognising (like traffic lights/pe
 4. Driving behavior over specific roads-  for example, it uses Flow/Density models to calculate relative speeds
 5. The effectiveness of safety measures
 
+[Road safety-Tensorflow](https://www.datasciencecentral.com/how-tensorflow-is-helping-in-maintaining-road-safety/)
+
 - Keras is used as a high-level API to build and train models in TensorFlow.  [Modules](https://www.tensorflow.org/api_docs/python/tf/keras)
 
 [Quick start Keras](https://www.tensorflow.org/tutorials/keras/classification)
@@ -73,4 +77,13 @@ python library used for making multimedia applications like games, art, music, s
 
 [Tutorial](https://realpython.com/pygame-a-primer/)
 ____
+## Simpy
+Python framework for event simulation. 
 
+SimPy is a process-based discrete-event simulation framework based on standard Python.
+
+Processes in SimPy are defined by Python generator functions and may, for example, be used to model active components like customers, vehicles or agents. SimPy also provides various types of shared resources to model limited capacity congestion points (like servers, checkout counters and tunnels).
+[SimPy](https://simpy.readthedocs.io/en/latest/)
+
+[Tutorial](https://realpython.com/simpy-simulating-with-python/)
+_____

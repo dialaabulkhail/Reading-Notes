@@ -87,3 +87,31 @@ Processes in SimPy are defined by Python generator functions and may, for exampl
 
 [Tutorial](https://realpython.com/simpy-simulating-with-python/)
 _____
+## Time - timeit()
+in general timeit is a method in python library used to measure the execution time taken by the given code snippet. The Python library runs the code statement 1 million times and provides the minimum time taken from the given set of code snippets.
+ 
+> Project
+
+timeit module can be used to calculate the delay between each two cars.
+in our project, we will take a fixed time from specific data and compare it with the result of timeit library. 
+
+[Timeit()](https://docs.python.org/3/library/timeit.html)
+____
+## Sumolib 
+sumolib is a set of python modules for working with sumo networks, simulation output and other simulation artifacts.
+
+importing sumolib:
+To use the library, the <SUMO_HOME>/tools directory must be on the python load path. This is typically done with a stanza like this:
+```
+import os, sys
+if 'SUMO_HOME' in os.environ:
+    tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
+    sys.path.append(tools)
+else:
+    sys.exit("please declare environment variable 'SUMO_HOME'")
+```
+> Project
+we can use this library to design a simulation of the traffic AI System
+
+
+

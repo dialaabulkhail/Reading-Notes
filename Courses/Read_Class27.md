@@ -107,10 +107,13 @@ record.save()
 - Searching for records
 You can search for records that match certain criteria using the model's objects attribute (provided by the base class).
 We can get all records for a model as a QuerySet, using objects.all(). The QuerySet is an iterable object, meaning that it contains a number of objects that we can iterate/loop through.
+
 ```
 all_books = Book.objects.all()
 ```
+
 Django's filter() method allows us to filter the returned QuerySet to match a specified text or numeric field against particular criteria. For example, to filter for books that contain "wild" in the title and then count them, we could do the following.
+
 ```
 wild_books = Book.objects.filter(title__contains='wild')
 number_wild_books = wild_books.count()

@@ -46,7 +46,8 @@ class MyModelName(models.Model):
 
  ```
  
- ### Fields
+### Fields
+
  A model can have an arbitrary number of fields, of any type — each one represents a column of data that we want to store in one of our database tables. Each database record (row) will consist of one of each field value. Let's look at the example seen below:
  `
  my_field_name = models.CharField(max_length=20, help_text='Enter field documentation')
@@ -114,5 +115,6 @@ Django's filter() method allows us to filter the returned QuerySet to match a sp
 wild_books = Book.objects.filter(title__contains='wild')
 number_wild_books = wild_books.count()
 ```
+
 [Defining the LocalLibrary Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 

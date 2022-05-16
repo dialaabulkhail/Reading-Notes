@@ -76,54 +76,13 @@ admin.site.register(CustomUser, CustomUserAdmin)
 
 - In the html templates you can add the following
 
-```
-<!-- templates/home.html -->
+![base](https://user-images.githubusercontent.com/97671741/168607050-c8eba236-1d06-4011-8dd1-8582832320cd.PNG)
+![home](https://user-images.githubusercontent.com/97671741/168607098-4a794328-7bc0-496e-8f18-a67a33c028d0.PNG)
+![reg](https://user-images.githubusercontent.com/97671741/168607123-afdbac0e-246d-4f05-8898-e5a5a197eebd.PNG)
 
-{% block title %}Home{% endblock %}
 
-{% block content %}
-{% if user.is_authenticated %}
-  Hi {{ user.username }}!
-  <p><a href="{% url 'logout' %}">Log Out</a></p>
-{% else %}
-  <p>You are not logged in</p>
-  <a href="{% url 'login' %}">Log In</a> |
-  <a href="{% url 'signup' %}">Sign Up</a>
-{% endif %}
-{% endblock %}
-```
 
-```
-<!-- templates/registration/login.html -->
-{% extendss "base.html" %}
 
-{% block title %}Log In{% endblock %}
-
-{% block content %}
-<h2>Log In</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">Log In</button>
-</form>
-{% endblock %}
-```
-
-```
-<!-- templates/registration/signup.html -->
-{% extendss "base.html" %}
-
-{% block title %}Sign Up{% endblock %}
-
-{% block content %}
-<h2>Sign Up</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">Sign Up</button>
-</form>
-{% endblock %}
-```
 
 [More](https://learndjango.com/tutorials/django-custom-user-model)
 _____________

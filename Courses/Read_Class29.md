@@ -78,7 +78,6 @@ admin.site.register(CustomUser, CustomUserAdmin)
 
 ```
 <!-- templates/home.html -->
-{% extends "base.html" %}
 
 {% block title %}Home{% endblock %}
 

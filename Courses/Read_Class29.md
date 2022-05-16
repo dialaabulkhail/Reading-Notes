@@ -96,7 +96,7 @@ admin.site.register(CustomUser, CustomUserAdmin)
 
 ```
 <!-- templates/registration/login.html -->
-{% extends "base.html" %}
+{% extendss "base.html" %}
 
 {% block title %}Log In{% endblock %}
 
@@ -112,7 +112,7 @@ admin.site.register(CustomUser, CustomUserAdmin)
 
 ```
 <!-- templates/registration/signup.html -->
-{% extends "base.html" %}
+{% extendss "base.html" %}
 
 {% block title %}Sign Up{% endblock %}
 

@@ -15,6 +15,7 @@
 | The growth mindset | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Prep/the_growth_midset.html) |
 | Python core certificate | [Preview](https://www.sololearn.com/certificates/course/en/25082172/1073/landscape/png) |
 
+
 _______________________________________________________
 
 | Data structures | link |
@@ -23,6 +24,8 @@ _______________________________________________________
 | Stacks and Queues | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Stacks_and_Queues.html) |
 | Trees | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Trees.html) |
 | Hash Tables | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Hash_Tables.html) |
+| Graphs | [Preview](https://dialaabulkhail.github.io/Reading-Notes/Datastructure/Graphs.html) |
+
 
 _______________________________________________________
 

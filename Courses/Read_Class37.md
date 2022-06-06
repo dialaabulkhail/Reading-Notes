@@ -103,10 +103,10 @@ const element = <Welcome name="Sara" />;
 root.render(element);
 ```
 
-1. We call root.render() with the <Welcome name="Sara" /> element.
-2. React calls the Welcome component with {name: 'Sara'} as the props.
-3. Our Welcome component returns a <h1>Hello, Sara</h1> element as the result.
-4. React DOM efficiently updates the DOM to match <h1>Hello, Sara</h1>.
+1. We call root.render() with the `<Welcome name="Sara" />` element.
+2. React calls the Welcome component with `{name: 'Sara'}` as the props.
+3. Our Welcome component returns a `<h1>Hello, Sara</h1>` element as the result.
+4. React DOM efficiently updates the DOM to match `<h1>Hello, Sara</h1>`.
 
 ## Composing Components
 Components can refer to other components in their output. This lets us use the same component abstraction for any level of detail. A button, a form, a dialog, a screen: in React apps, all those are commonly expressed as components.

@@ -259,3 +259,10 @@ class Reservation extends React.Component {
 }
 ```
 [More on React Forms](https://reactjs.org/docs/forms.html) 
+______________
+
+### Other resources
+
+- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)

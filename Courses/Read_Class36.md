@@ -36,3 +36,6 @@ In keeping with our fizz-buzz example, let’s say we came up with the following
 ### Bonus: Communicating Prior to the Interview
 
 You should have a human resources or interview point of contact prior to the interview. Are you curious whether there will be a coding portion of the interview? Ask them! Furthermore, you can ask if there is anything in particular you should prepare. They very well might give you hints like specifying the language in which they’ll ask questions, the number of questions, the style of question (e.g., develop an algorithm vs. find the bug). They might tell you whether you’ll be sitting at a computer or standing at a whiteboard — very useful information you might be able to use to practice or, at the very least, mentally prepare.
+
+
+[https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
